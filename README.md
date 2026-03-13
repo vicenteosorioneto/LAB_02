@@ -114,3 +114,5 @@ Para manter o foco no pedido do laboratório, este esqueleto **não** inclui:
 - A implementação prioriza transparência de cálculo e validação de dimensões.
 - É um esqueleto para estudo e extensão manual.
 - Você pode evoluir depois para multi-head, máscara e positional encoding mantendo a mesma base de forward.
+- Partes geradas/complementadas com IA, revisadas por [Vicente].
+
